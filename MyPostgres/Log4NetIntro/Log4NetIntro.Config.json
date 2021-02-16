@@ -1,0 +1,7 @@
+﻿{
+	"Log4NetIntro": {
+		"ConnectionString": "Host=localhost;Username=postgres;Password=admin;Database=postgres"
+		"AppName": "My Coll App",
+		"Version" : 3.5
+	}
+}
